@@ -1,6 +1,23 @@
-# DentFlow-frontend ![image](https://github.com/RafalGontarski/DentFlow-frontend/assets/106514250/758bd2ba-269a-41d5-9709-13804c90ccb5)
+# DentFlow - Dental Clinic Service System
 
-An application created for dental clinics. It facilitates running a clinic, hiring employees, arranging patients for appointments and storing treatment history.
+Our Dental Clinic service system is an advanced tool for managing clinical and administrative processes in a dental practice. It allows you to effectively plan visits, manage patient history, as well as manage staff and resources.
+
+Functions:
+1. **Visit Scheduling**: Intuitive interface to easily arrange, view and modify appointments.
+2. **Patient Management**: Store and view detailed patient data, including their medical and dental history.
+3. **Personnel Management**: Monitor staff schedules, attendance, payroll and contact details.
+4. **Resource management**: Track the use and availability of resources such as equipment, materials and medications.
+
+The Dental Clinic Service System is an open-source project. We invite everyone who wants to contribute to the development of this tool to cooperate.
+
+## How it's working?
+
+1. Log in to the system with your username and password.
+2. Select the function you are interested in from the main menu: Visit Scheduling, Patient Management, Personnel Management or Resource Management.
+3. In each module, you can add, view, edit or delete relevant records.
+4. Remember to regularly update the data so that the system can effectively support the management of the clinic.
+
+DentFlow helps to maintain the smoothness and efficiency of your dental practice.
 
 Backend is also in my repositories. Check there - https://github.com/RafalGontarski/DentFlow-backend.
 
